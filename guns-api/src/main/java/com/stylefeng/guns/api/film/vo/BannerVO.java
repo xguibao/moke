@@ -4,6 +4,9 @@ import lombok.Data;
 
 import java.io.Serializable;
 
+/**
+ * 首页banner
+ */
 @Data
 public class BannerVO implements Serializable {
 
